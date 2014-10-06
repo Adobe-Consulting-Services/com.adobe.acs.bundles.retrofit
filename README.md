@@ -2,7 +2,7 @@
 
 This projects makes the [Retrofit](https://github.com/square/retrofit/) API available as an OSGi bundle inside a content package suitable for deployment on CQ/AEM.
 
-This package depends upon Google GSON which should be available as-is as it is distributed as an OSGi bundle.
+This package depends upon Google GSON which should be available as-is as it is distributed as an OSGi bundle. For convenience, a content package is available from [Adobe Consulting Services' Github Organization](https://github.com/Adobe-Consulting-Services/com.adobe.acs.bundles.gson).
 
 ## Logging
 

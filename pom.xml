@@ -140,7 +140,7 @@
     </build>
 
     <scm>
-          <developerConnection>scm:git:git@github.com:Adobe-Consulting-Services/com.adobe.acs.bundles.twitter4j.git</developerConnection>
+          <developerConnection>scm:git:git@github.com:Adobe-Consulting-Services/com.adobe.acs.bundles.retrofit.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
