@@ -84,6 +84,7 @@
                             *
                         </Import-Package>
                         <Embed-Dependency>*;scope=compile;inline=true</Embed-Dependency>
+                        <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
                     </instructions>
                 </configuration>
             </plugin>
