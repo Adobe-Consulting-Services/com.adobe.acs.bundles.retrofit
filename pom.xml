@@ -7,7 +7,7 @@
 
     <groupId>com.adobe.acs.bundles</groupId>
     <artifactId>com.adobe.acs.bundles.retrofit</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Retrofit - Reactor Project</name>
@@ -156,7 +156,7 @@
 
     <scm>
           <developerConnection>scm:git:git@github.com:Adobe-Consulting-Services/com.adobe.acs.bundles.retrofit.git</developerConnection>
-      <tag>com.adobe.acs.bundles.retrofit-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <profiles>
